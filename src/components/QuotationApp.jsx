@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Camera } from 'lucide-react';
 import sig from "../images/signature.png";
 import queensway from "../images/queensway-logo.png";
 import towerRoofing from "../images/tower-roofing-logo.png";
